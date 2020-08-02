@@ -1,6 +1,6 @@
 ### Namste 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitjakhar&label=Views&color=blue&style=plastic" alt="rohitjakhar" /> </p>
 
 <a href="https://twitter.com/rohitjakhar0">
   <img align="left" alt="Rohit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
