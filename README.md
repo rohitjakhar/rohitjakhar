@@ -6,19 +6,19 @@
   <img align="left" alt="Rohit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/rohitjakhar0">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rohit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/rohitjakhar">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Rohit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/rohit940">
   <img align="left" alt="Rohit's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/rohitjakhar0/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rohit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/rohitjakhar0/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Rohit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br/>
@@ -33,7 +33,7 @@
 - ⚡ Fun fact: I love coding more than sleeping
 
 [![Twitter: rohitjakhar0](https://img.shields.io/twitter/follow/rohitjakhar0?style=social)](https://twitter.com/rohitjakhar0)
-[![Linkedin: rohitjakhar](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohitjakhar0/)](https://www.linkedin.com/in/rohitjakhar0/)
+[![Linkedin: rohitjakhar](https://img.shields.io/badge/-rohitjakhar0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohitjakhar0/)](https://www.linkedin.com/in/rohitjakhar0/)
 [![GitHub: rohitjakhar](https://img.shields.io/github/followers/rohitjakhar?label=follow&style=social)](https://github.com/rohitjakhar)
 
 
@@ -48,7 +48,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjakhar&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/rohitjakhat">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitjakhar&show_icons=true&hide=prs&theme=dark&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitjakhar&show_icons=true&hide=prs&theme=dark&line_height=27" alt="Rohit's github stats"/>
 </a>
 <a href="https://github.com/rohitjakhar/coursehub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitjakhar&repo=coursehub&theme=dark" />
