@@ -32,10 +32,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love coding more than sleeping
 
-[![Twitter: rohitjakhar0](https://img.shields.io/twitter/follow/rohitjakhar0?style=social)](https://twitter.com/rohitjakhar0)
-[![Linkedin: rohitjakhar](https://img.shields.io/badge/-rohitjakhar0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohitjakhar0/)](https://www.linkedin.com/in/rohitjakhar0/)
-[![GitHub: rohitjakhar](https://img.shields.io/github/followers/rohitjakhar?label=follow&style=social)](https://github.com/rohitjakhar)
-
 
 **Languages and Tools:**  
 
@@ -44,19 +40,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
 
-<a href="https://github.com/rohitjakhar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjakhar&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/rohitjakhat">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitjakhar&show_icons=true&hide=prs&theme=dark&line_height=27" alt="Rohit's github stats"/>
-</a>
-<a href="https://github.com/rohitjakhar/coursehub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitjakhar&repo=coursehub&theme=dark" />
 
-</a>
-<a href="https://github.com/rohitjakhar/stopwatch_kotlin">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitjakhar&repo=stopwatch_kotlin&theme=dark" />
-</a>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RohitJakhar&theme=vue" />
+</p>
+
+
 
 <div align="center">
 
