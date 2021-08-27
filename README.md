@@ -11,7 +11,7 @@
 <a href="https://github.com/rohitjakhar">
   <img align="left" alt="Rohit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/rohit940">
+<a href="https://t.me/rohitjakhar0">
   <img align="left" alt="Rohit's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/rohitjakhar0/">
