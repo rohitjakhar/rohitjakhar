@@ -21,7 +21,7 @@ Myself `Rohit Jakhar`. I'm a mobile technology enthusiast! love Android __kotlin
 ## Blogs
 I do `Android` and `Kotlin` blogging at <br>
 
-<a href="https://blog.rohitjakhar.me" target="_blank"><img src="https://img.shields.io/badge/AndroidBites-303030?style=for-the-badge&logo=android" alt="Hashnode"></a>
+<a href="https://blog.rohitjakhar.me" target="_blank"><img src="https://img.shields.io/badge/Rohit-Jakhar-303030?style=for-the-badge&logo=android" alt="Hashnode"></a>
 
 ### Hacktober
 <p style="display:flex;">
