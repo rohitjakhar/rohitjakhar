@@ -102,9 +102,6 @@ I do `Android` and `Kotlin` blogging at <br>
 
  <img src="https://activity-graph.herokuapp.com/graph?username=rohitjakhar&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
 
-## 📊 Dev Post
-<a href="https://app.daily.dev/rohitjakhar"><img src="https://api.daily.dev/devcards/ecd6c82669e44addaf316737703ec53c.png?r=pjm" width="400" alt="Rohit Jakhar's Dev Card"/></a>
-
 ## Stalk Me 👀
 
 <a href="https://bit.ly/rohit-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-Rohit_Jakhar-00acee?style=for-the-badge&logo=twitter" alt="Twitter"></a>
