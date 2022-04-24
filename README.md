@@ -109,7 +109,7 @@ I do `Android` and `Kotlin` blogging at <br>
 <a href="https://bit.ly/rohit-github" target="_blank"><img src="https://img.shields.io/badge/github-Rohit-4078c0?style=for-the-badge&logo=github" alt="github"></a> 
 <a href="https://bit.ly/rohit-stackOflow" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-Rohit%20Jakhar-ef8236?style=for-the-badge&logo=Stackoverflow" alt="Stackoverflow"></a> 
 <a href="https://bit.ly/rohit-linked" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rohit%20Jakhar-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> 
-<a href="https://bit.ly/rohit-hashnode" target="_blank"><img src="https://img.shields.io/badge/Blog-Rohit%20Jakhar-00ab6c?style=for-the-badge&logo=medium" alt="Blog"></a> 
+<a href="https://rohitjakhar.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Blog-Rohit%20Jakhar-00ab6c?style=for-the-badge&logo=medium" alt="Blog"></a> 
 
 
 <p align="center">
