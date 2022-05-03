@@ -23,30 +23,7 @@ I do `Android` and `Kotlin` blogging at <br>
 
 <a href="https://blog.rohitjakhar.me" target="_blank"><img src="https://img.shields.io/badge/Rohit-Jakhar-303030?style=for-the-badge&logo=android" alt="Hashnode"></a>
 
-### Hacktober
-<p style="display:flex;">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" height=120px>
-</p>
-
-### Community
-
-<table>
-  <tr>
-    <td valign="top">
-        <img src="https://user-images.githubusercontent.com/11576342/127342468-a62cc883-be82-401f-8f42-d13fdc22c8ca.png" height =200px/>
-        <p>Member : Kotlin-Mumbai 👾</p>
-    </td>
-    <td valign="top">
-        <img src="https://ci3.googleusercontent.com/proxy/D20ovagkw2mFdAdJGCTVqU1AY-rILxBy9quPT3HBHBJY2J6KX1-uoVH6MieI746LCTR8PTSq18dA1ig1DUcax4hnNJ7QAZ5h2g2TStmcqs-ULrKhetmHf6KJ_C9dXJU6V7m1Cjch=s0-d-e1-ft#https://userimg-bee.customeriomail.com/images/client-env-94080/ambassador-badge.png" height=200px/>  
-        <p>Ambassadors : Hashnode 🚀</p>
-      </a> 
-    </td>
-  </tr>
-</table>
-
-
-
-## Awards
+<!-- ## Awards
 
 <table >
   <tr>
@@ -69,7 +46,7 @@ I do `Android` and `Kotlin` blogging at <br>
   </tr>
 </table>
 
-<br>
+<br> -->
 
 ## Languages
 <img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java"> <img src="https://img.shields.io/badge/Javascript-303030?style=for-the-badge&logo=Javascript" alt="Javascript">
