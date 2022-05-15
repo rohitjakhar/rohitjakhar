@@ -63,7 +63,7 @@ I do `Android` and `Kotlin` blogging at <br>
 <br>
 <br>
 
-<a href="https://github.com/ch8n">
+<a href="https://github.com/rohitjakhar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitjakhar&count_private=true&show_icons=true&include_all_commits=true" alt="rohitjakhar | Stats"/>
  
   <br>
@@ -90,6 +90,6 @@ I do `Android` and `Kotlin` blogging at <br>
 
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=ch8n">
+<img src="https://visitor-badge.glitch.me/badge?page_id=rohitjakhar">
 </p≈>
 
