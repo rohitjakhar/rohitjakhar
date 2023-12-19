@@ -55,6 +55,9 @@ I do `Android` and `Kotlin` blogging at <br>
 
 <img src="https://img.shields.io/badge/Android-303030?style=for-the-badge&logo=Android" alt="Android"> <img src="https://img.shields.io/badge/NodeJs-303030?style=for-the-badge&logo=Javascript" alt="Node"> <img src="https://img.shields.io/badge/Vue-303030?style=for-the-badge&logo=Javascript" alt="Vue"> <img src="https://img.shields.io/badge/firebase-303030?style=for-the-badge&logo=firebase" alt="firebase">
 
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=rohitjakhar&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+
 ## 📊 Github Stats
 
 <p align="center">
