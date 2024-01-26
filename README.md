@@ -15,6 +15,7 @@ Myself `Rohit Jakhar`. I'm a mobile technology enthusiast! love Android __kotlin
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm 👨🏻‍💻 by :sunny: and :guitar: by :full_moon_with_face:
 
+## [Rohit Resume](https://github.com/rohitjakhar/rohitjakhar/files/14068835/Rohit.Resume.pdf)
 ### Not Enough? check :point_right: [here](https://blog.rohitjakhar.me/about/) 
 <br>
 
